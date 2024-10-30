@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JGC Google Recaptcha\n"
+"POT-Creation-Date: 2017-07-04 19:24+0100\n"
+"PO-Revision-Date: 2017-07-04 19:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/jgcgrc-functions.php:4
+msgid "Please click on the reCAPTCHA box."
+msgstr ""
+
+#: inc/jgcgrc-functions.php:96 inc/jgcgrc-functions.php:184
+#: inc/jgcgrc-functions.php:209 inc/jgcgrc-functions.php:234
+msgid "Robot verification failed, please try again."
+msgstr ""
+
+#: inc/jgcgrc-functions.php:102
+msgid "Get back"
+msgstr ""
+
+#: inc/jgcgrc-options.php:113 jgc-google-recaptcha.php:81
+msgid "Settings"
+msgstr ""
+
+#: inc/jgcgrc-options.php:122
+msgid "Authentication"
+msgstr ""
+
+#: inc/jgcgrc-options.php:124
+msgid "To use Google reCAPTCHA you should get a site key and a secret key in"
+msgstr ""
+
+#: inc/jgcgrc-options.php:125
+msgid "When you get the keys, write them in the text boxes below."
+msgstr ""
+
+#: inc/jgcgrc-options.php:129
+msgid "Site key"
+msgstr ""
+
+#: inc/jgcgrc-options.php:139
+msgid "Secret key"
+msgstr ""
+
+#: inc/jgcgrc-options.php:151
+msgid "Options"
+msgstr ""
+
+#: inc/jgcgrc-options.php:154
+msgid "Enable reCAPTCHA for"
+msgstr ""
+
+#: inc/jgcgrc-options.php:159
+msgid "Login form"
+msgstr ""
+
+#: inc/jgcgrc-options.php:163
+msgid "Register form"
+msgstr ""
+
+#: inc/jgcgrc-options.php:167
+msgid "Lost password form"
+msgstr ""
+
+#: inc/jgcgrc-options.php:171
+msgid "Comments form"
+msgstr ""
+
+#: inc/jgcgrc-options.php:177
+msgid "Before submit button"
+msgstr ""
+
+#: inc/jgcgrc-options.php:182
+msgid "After submit button"
+msgstr ""
+
+#: inc/jgcgrc-options.php:188
+msgid "reCAPTCHA theme"
+msgstr ""
+
+#: inc/jgcgrc-options.php:193
+msgid "Light"
+msgstr ""
+
+#: inc/jgcgrc-options.php:198
+msgid "Dark"
+msgstr ""
+
+#: inc/jgcgrc-options.php:203
+msgid "reCAPTCHA language"
+msgstr ""
+
+#: inc/jgcgrc-options.php:206
+msgid "Site language"
+msgstr ""
+
+#: inc/jgcgrc-options.php:208
+msgid "User language"
+msgstr ""
+
+#: inc/jgcgrc-options.php:210
+msgid "Site language: Your site's language"
+msgstr ""
+
+#: inc/jgcgrc-options.php:211
+msgid "User language: The user's language auto-detected by Google."
+msgstr ""
+
+#: inc/jgcgrc-options.php:218
+msgid "Save changes"
+msgstr ""
+
+#: inc/jgcgrc-options.php:226
+msgid "Links"
+msgstr ""
+
+#: inc/jgcgrc-options.php:228
+msgid ""
+"Please, if you are happy with the plugin, say it on wordpress.org and give "
+"it a nice review. Thank you."
+msgstr ""
+
+#: inc/jgcgrc-options.php:229
+msgid "Rate/Review"
+msgstr ""
+
+#: inc/jgcgrc-options.php:231
+msgid "Support forum"
+msgstr ""
+
+#: inc/jgcgrc-options.php:233
+msgid "Our WordPress Themes"
+msgstr ""

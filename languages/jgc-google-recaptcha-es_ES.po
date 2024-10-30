@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JGC Google Recaptcha\n"
+"POT-Creation-Date: 2017-07-04 19:21+0100\n"
+"PO-Revision-Date: 2017-07-04 19:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/jgcgrc-functions.php:4
+msgid "Please click on the reCAPTCHA box."
+msgstr "Por favor, haz clic en el cuadro reCAPTCHA."
+
+#: inc/jgcgrc-functions.php:96 inc/jgcgrc-functions.php:184
+#: inc/jgcgrc-functions.php:209 inc/jgcgrc-functions.php:234
+msgid "Robot verification failed, please try again."
+msgstr "Error de la verificación del robot, por favor, vuelve a intentarlo."
+
+#: inc/jgcgrc-functions.php:102
+msgid "Get back"
+msgstr "Volver"
+
+#: inc/jgcgrc-options.php:113 jgc-google-recaptcha.php:81
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/jgcgrc-options.php:122
+msgid "Authentication"
+msgstr "Autentificación"
+
+#: inc/jgcgrc-options.php:124
+msgid "To use Google reCAPTCHA you should get a site key and a secret key in"
+msgstr ""
+"Para utilizar Google reCAPTCHA debes obtener una clave del sitio y una clave "
+"secreta en"
+
+#: inc/jgcgrc-options.php:125
+msgid "When you get the keys, write them in the text boxes below."
+msgstr "Cuando obtengas las claves, escríbelas en las cajas de texto de abajo."
+
+#: inc/jgcgrc-options.php:129
+msgid "Site key"
+msgstr "Clave del sitio"
+
+#: inc/jgcgrc-options.php:139
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: inc/jgcgrc-options.php:151
+msgid "Options"
+msgstr "Opciones"
+
+#: inc/jgcgrc-options.php:154
+msgid "Enable reCAPTCHA for"
+msgstr "Habilitar reCAPTCHA para"
+
+#: inc/jgcgrc-options.php:159
+msgid "Login form"
+msgstr "Formulario de acceso"
+
+#: inc/jgcgrc-options.php:163
+msgid "Register form"
+msgstr "Formulario de registro"
+
+#: inc/jgcgrc-options.php:167
+msgid "Lost password form"
+msgstr "Formulario de contraseña perdida"
+
+#: inc/jgcgrc-options.php:171
+msgid "Comments form"
+msgstr "Formulario de comentarios"
+
+#: inc/jgcgrc-options.php:177
+msgid "Before submit button"
+msgstr "Antes del botón enviar"
+
+#: inc/jgcgrc-options.php:182
+msgid "After submit button"
+msgstr "Después del botón enviar"
+
+#: inc/jgcgrc-options.php:188
+msgid "reCAPTCHA theme"
+msgstr "Tema del reCAPTCHA"
+
+#: inc/jgcgrc-options.php:193
+msgid "Light"
+msgstr "Claro"
+
+#: inc/jgcgrc-options.php:198
+msgid "Dark"
+msgstr "Oscuro"
+
+#: inc/jgcgrc-options.php:203
+msgid "reCAPTCHA language"
+msgstr "Idioma del reCAPTCHA"
+
+#: inc/jgcgrc-options.php:206
+msgid "Site language"
+msgstr "Idioma del sitio"
+
+#: inc/jgcgrc-options.php:208
+msgid "User language"
+msgstr "Idioma del usuario"
+
+#: inc/jgcgrc-options.php:210
+msgid "Site language: Your site's language"
+msgstr "Idoma del sitio: el idioma de tu sitio"
+
+#: inc/jgcgrc-options.php:211
+msgid "User language: The user's language auto-detected by Google."
+msgstr ""
+"Idioma del usuario: el idioma del usuario detectado automáticamente por "
+"Google"
+
+#: inc/jgcgrc-options.php:218
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: inc/jgcgrc-options.php:226
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/jgcgrc-options.php:228
+msgid ""
+"Please, if you are happy with the plugin, say it on wordpress.org and give "
+"it a nice review. Thank you."
+msgstr ""
+"Por favor, si estás satisfecho con el plugin, coméntalo en wordpress.org y "
+"haz una buena reseña sobre él. Gracias."
+
+#: inc/jgcgrc-options.php:229
+msgid "Rate/Review"
+msgstr "Puntuar/Reseñar"
+
+#: inc/jgcgrc-options.php:231
+msgid "Support forum"
+msgstr "Foro de soporte"
+
+#: inc/jgcgrc-options.php:233
+msgid "Our WordPress Themes"
+msgstr "Nuestros Temas WordPress"
+
+#~ msgid "Do you like the plugin?"
+#~ msgstr "¿Te gusta el plugin?"
+
+#~ msgid "Please rate it"
+#~ msgstr "Por favor, puntúalo."
+
+#~ msgid "here"
+#~ msgstr "aquí"
+
+#~ msgid "Location"
+#~ msgstr "Posición"
+
+#~ msgid "Show reCAPTCHA"
+#~ msgstr "Mostrar reCAPTCHA"
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "Form background image"
+#~ msgstr "Imagen de fondo del formulario"
+
+#~ msgid "Restore default options..."
+#~ msgstr "Restaurar las opciones por defecto..."
+
+#~ msgid "you want restore default options?"
+#~ msgstr "¿Quieres restaurar las opciones por defecto?"
+
+#~ msgid "Restore default options"
+#~ msgstr "Restaurar las opciones por defecto"
